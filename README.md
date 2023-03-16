@@ -7,6 +7,9 @@ A FullStack (MERN) AI Image generative web app that lets you create images based
 #### Frontend: React - TypeScript 
 #### Backend: Nodejs, Express, MongoDB
 
+## View Live
+https://image-gen-client.vercel.app/
+
 ## Installation
 
 Install project with npm
